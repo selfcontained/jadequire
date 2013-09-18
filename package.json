@@ -18,7 +18,7 @@
     "synchronous"
   ],
   "author": "Brad Harris <bmharris@gmail.com> (http://selfcontained.us)",
-  "license": "BSD",
+  "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
     "deap": "~0.1.2",
